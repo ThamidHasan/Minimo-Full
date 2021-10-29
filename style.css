@@ -41,6 +41,9 @@ header{
     text-decoration: none;
     color: #626262;
 }
+.menu ul li a:hover {
+    border-bottom: 1px solid #626262;
+}
 /*headder end*/
 /*banner start*/
 .banner{}
@@ -148,9 +151,9 @@ header{
     color: #626262;
     margin-top: 20px;
 }
-.lm_content a:hover{
-    color: #000;
-    transition: 0.5s;
+.lm_content:hover {
+    background-color: #626262;
+    color: #fff;
 }
 /*loadmore end*/
 /*footer start*/

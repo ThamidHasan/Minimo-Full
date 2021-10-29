@@ -150,9 +150,12 @@ header{
     display: inline-block;
     color: #626262;
     margin-top: 20px;
+    transition: 0.3s;
 }
 .lm_content:hover {
     background-color: #626262;
+    color: #fff;
+}.lm_content a:hover {
     color: #fff;
 }
 /*loadmore end*/

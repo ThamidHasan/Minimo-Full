@@ -138,13 +138,15 @@ header{
 }
 .lm_content {
     border: 1px solid #626262;
-    padding: 14px 28px;
+    width: 165px;
+    height: 60px;
+    text-align: center;
 }
 .lm_content a {
     text-decoration: none;
     display: inline-block;
-    text-align: center;
     color: #626262;
+    margin-top: 20px;
 }
 .lm_content a:hover{
     color: #000;
